@@ -1,4 +1,4 @@
-# Numerical Guessing Exercise
+# Project Description
 A basic number guessing game for the web created with HTML, CSS (Bootstrap), and JavaScript. Guessing a number between 1 and 100 that is generated at random is the aim of the game. The number of attempts you made after making a right guess is displayed, and the game gives you feedback on how high or low your guess was.
 
 
