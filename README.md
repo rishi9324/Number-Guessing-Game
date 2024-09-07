@@ -18,7 +18,8 @@ A basic number guessing game for the web created with HTML, CSS (Bootstrap), and
 
 
 # Project Organisation
-- 'index.html': This file has JavaScript logic, Bootstrap styling, and the HTML structure.
+- 'index.html': This file has Bootstrap styling, and the HTML structure.
+- 'script.js': This file has the Java Script functionalities.
 - The project overview is provided in the file 'README.md'.
 
 
@@ -29,7 +30,7 @@ A basic number guessing game for the web created with HTML, CSS (Bootstrap), and
 
 
 # Setup
-Installation is not necessary. To play the game, just open the `index.html} file in your web browser.
+Installation is not necessary. To play the game, just open the 'index.html' file in your web browser.
 
 
 # Participating
